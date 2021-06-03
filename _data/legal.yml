@@ -119,4 +119,10 @@
   category: cookie-policy
   link: https://github.com/gruntwork-io/gruntwork-io.github.io/commit/da536301
   date: 2020-12-07
-  
+
+- guid: 10015
+  title: Added Our Vulnerability Disclosure Policy
+  description: As a reflection of our ongoing commitment to security, and in the interest of full transparency, we’ve created a Vulnerability Disclosure Policy. This establishes a formal commitment to our customers, as well as procedures through which any security concerns may be reported to Gruntwork.
+  category: vulnerability-disclosure-policy
+  link: https://github.com/gruntwork-io/gruntwork-io.github.io/commit/ed305efa
+  date: 2021-05-21
